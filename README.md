@@ -2,27 +2,27 @@
 
 .  El nombre de la base de datos será VENTACURSOS.
 
-##Estructura y descripción de tablas
+## Estructura y descripción de tablas
 
 Esta base de datos estará conformada por las siguientes tablas:
 
-.  PERSONA: contiene los datos generales de toda persona, además especifica si es estudiante o empleado.
+- PERSONA: contiene los datos generales de toda persona, además especifica si es estudiante o empleado.
 
-.  EMPLEADO: contiene la información necesaria del empleado.
+- EMPLEADO: contiene la información necesaria del empleado.
 
-.  DEPARTAMENTO: contiene toda la información de los departamentos en los que trabajan los empleados.
+- DEPARTAMENTO: contiene toda la información de los departamentos en los que trabajan los empleados.
 
-.  CURSO: contiene toda la información referente a los cursos que se ofertan.
+- CURSO: contiene toda la información referente a los cursos que se ofertan.
 
-.  OFERTA: contiene las ofertas de cursos con su respectiva fecha de inicio y profesor. asignado. 
+- OFERTA: contiene las ofertas de cursos con su respectiva fecha de inicio y profesor. asignado. 
 
-.  NIVEL_SUELDO: contiene los niveles o grados de sueldo que puede alcanzar el empleado de acuerdo a su productividad.
+- NIVEL_SUELDO: contiene los niveles o grados de sueldo que puede alcanzar el empleado de acuerdo a su productividad.
 
-.  INSCRIPCION: contiene todas las inscripciones realizadas a los cursos ofertados y que son atendidos por los empleados del departamento de ventas.
+- INSCRIPCION: contiene todas las inscripciones realizadas a los cursos ofertados y que son atendidos por los empleados del departamento de ventas.
 
-.  HISTORICO: contiene la información histórica de los años trabajados de un empleado dentro de la empresa.
+- HISTORICO: contiene la información histórica de los años trabajados de un empleado dentro de la empresa.
 
-##Relaciones entre tablas
+## Relaciones entre tablas
 
 Para establecer las relaciones debe tener en cuenta lo siguiente:
 
